@@ -6,9 +6,14 @@
      box-sizing: border-box;
 }
 
+/*FONTS*/
+body { 
+    font-family: 'Playfair Display', 'Josefin Sans', sans-serif,  serif;
+}
+
 /*NAVIGATION*/
 .navbar {
-    backgound-color: ;
+    background-color: #000000;
 }
 
 #navigation {
@@ -24,8 +29,8 @@
 }
 
 .logo {
-    margin-top: ;
-    max-width: ;
+    margin-top: 0px;
+    max-width: 25%;
 }
 
 
